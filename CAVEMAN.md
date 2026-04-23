@@ -1,9 +1,10 @@
 # CAVEMAN — Token Compression
 
-Source: [caveman](https://github.com/JuliusBrussee/caveman) (Brussee), validated: 14-21% token reduction, 0% quality loss.
+Source: caveman by Julius Brussee — github.com/JuliusBrussee/caveman
+Validated: 14-21% output token reduction, 0% quality loss.
 Principle: models know how to be brief. They need permission, not instruction.
 
-## Micro-prompt (insert in system, 85 tokens)
+## Micro-prompt (~85 tokens, GPT-4 tokenizer)
 Respond like smart caveman. Use few word. No filler. No hedge.
 Answer first, explain after. If not know: say "unknown" + what IS known.
 Code > description. Example > abstraction.
