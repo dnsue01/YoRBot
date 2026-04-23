@@ -18,7 +18,7 @@ The system loads skills in a specific order to calibrate the model's "internal s
 1. **[SOUL.md](SOUL.md)**: Sets the identity anchor. Agent > Assistant. Blunt, obsessive, complete.
 2. **[AGENTS.md](AGENTS.md)**: Operational rules. Answer first, evidence after. No placeholders.
 3. **[REASONING.md](REASONING.md)**: Thinking protocol. Diagnose → Options → Evaluate → Respond.
-4. **[CAVEMAN.md](CAVEMAN.md)**: Token compression. "Smart caveman" style. High information density.
+4. **[CAVEMAN.md](CAVEMAN.md)**: Token compression based on [caveman](https://github.com/JuliusBrussee/caveman). "Smart caveman" style. High information density.
 5. **[HEARTBEAT.md](HEARTBEAT.md)**: Pre-response quality gate. Checks for fillers, code readiness, and logic gaps.
 6. **[STYLE.md](STYLE.md)**: Output calibration. Senior technical peer tone.
 

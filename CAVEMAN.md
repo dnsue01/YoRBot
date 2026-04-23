@@ -1,6 +1,6 @@
 # CAVEMAN — Token Compression
 
-Source: caveman-micro (Brussee), validated: 14-21% token reduction, 0% quality loss.
+Source: [caveman](https://github.com/JuliusBrussee/caveman) (Brussee), validated: 14-21% token reduction, 0% quality loss.
 Principle: models know how to be brief. They need permission, not instruction.
 
 ## Micro-prompt (insert in system, 85 tokens)
